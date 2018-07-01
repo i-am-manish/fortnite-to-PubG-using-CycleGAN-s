@@ -15,6 +15,4 @@ CycleGANs are used for cross-domain image style transfer. They can be trained to
 Moreover in results,it even learnt to replace the health meter at the bottom of the screen with the gun and ammo indicator of PUBG! 
 You can check results here https://youtu.be/xkLtgwWxrec
 
-
-
-
+![screenshot 49](https://user-images.githubusercontent.com/30951565/42132968-7ad91d4c-7d3f-11e8-9774-c6b996d032e3.png)
